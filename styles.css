@@ -25,10 +25,11 @@ body{
 	border-radius: 20px;
 }
 
-.Pictorial-News{
+.pictorial-news-section{
 	display: inline-block;
 	text-align:center;
 	width:200px;
+	margin-left:-30px;
 	margin-left:20px;
 	background-color: white;
 	border-radius: 20px;
